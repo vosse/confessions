@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/confessions/static/css/main.d41b23eb.chunk.css",
+    "main.js": "/confessions/static/js/main.d4c0e35b.chunk.js",
+    "main.js.map": "/confessions/static/js/main.d4c0e35b.chunk.js.map",
+    "runtime-main.js": "/confessions/static/js/runtime-main.5ac8b49a.js",
+    "runtime-main.js.map": "/confessions/static/js/runtime-main.5ac8b49a.js.map",
+    "static/js/2.a6f09b12.chunk.js": "/confessions/static/js/2.a6f09b12.chunk.js",
+    "static/js/2.a6f09b12.chunk.js.map": "/confessions/static/js/2.a6f09b12.chunk.js.map",
+    "index.html": "/confessions/index.html",
+    "precache-manifest.143a71c28a64dd35a50eb6270f6e4dec.js": "/confessions/precache-manifest.143a71c28a64dd35a50eb6270f6e4dec.js",
+    "service-worker.js": "/confessions/service-worker.js",
+    "static/css/main.d41b23eb.chunk.css.map": "/confessions/static/css/main.d41b23eb.chunk.css.map",
+    "static/js/2.a6f09b12.chunk.js.LICENSE": "/confessions/static/js/2.a6f09b12.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ac8b49a.js",
+    "static/js/2.a6f09b12.chunk.js",
+    "static/css/main.d41b23eb.chunk.css",
+    "static/js/main.d4c0e35b.chunk.js"
+  ]
+}
